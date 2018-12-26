@@ -39,7 +39,9 @@ namespace Speech_Demo
 
             // 初始化控件默认值
             //cbFileType.SelectedIndex = 0;
-            //tboxTTSText.Text = "北京航空航天大学软件学院。\r\n软件工程专业人工智能方向。";
+            tboxTTSText.Text = "格式如：" +
+                "M,0.455,0.365,0.095,0.514,0.2245,0.101,0.15,15;" +System.Environment.NewLine+
+                "M,0.35,0.265,0.09,0.2255,0.0995,0.0485,0.07,7";
         }
 
 

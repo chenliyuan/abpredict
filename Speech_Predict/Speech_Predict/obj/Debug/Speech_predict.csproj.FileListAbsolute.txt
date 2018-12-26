@@ -15,3 +15,20 @@ D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_pre
 D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_predict.csproj.CopyComplete
 D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.exe
 D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.pdb
+D:\cly\abpredict\Speech_Predict\Speech_Predict\bin\Debug\Speech_Demo.exe.config
+D:\cly\abpredict\Speech_Predict\Speech_Predict\bin\Debug\Speech_Demo.exe
+D:\cly\abpredict\Speech_Predict\Speech_Predict\bin\Debug\Speech_Demo.pdb
+D:\cly\abpredict\Speech_Predict\Speech_Predict\bin\Debug\AipSdk.dll
+D:\cly\abpredict\Speech_Predict\Speech_Predict\bin\Debug\IronPython.dll
+D:\cly\abpredict\Speech_Predict\Speech_Predict\bin\Debug\Microsoft.Scripting.dll
+D:\cly\abpredict\Speech_Predict\Speech_Predict\bin\Debug\Newtonsoft.Json.dll
+D:\cly\abpredict\Speech_Predict\Speech_Predict\bin\Debug\Microsoft.Dynamic.dll
+D:\cly\abpredict\Speech_Predict\Speech_Predict\bin\Debug\AipSdk.pdb
+D:\cly\abpredict\Speech_Predict\Speech_Predict\obj\Debug\Speech_predict.csprojAssemblyReference.cache
+D:\cly\abpredict\Speech_Predict\Speech_Predict\obj\Debug\Speech_Demo.FormMain.resources
+D:\cly\abpredict\Speech_Predict\Speech_Predict\obj\Debug\Speech_Demo.Properties.Resources.resources
+D:\cly\abpredict\Speech_Predict\Speech_Predict\obj\Debug\Speech_predict.csproj.GenerateResource.cache
+D:\cly\abpredict\Speech_Predict\Speech_Predict\obj\Debug\Speech_predict.csproj.CoreCompileInputs.cache
+D:\cly\abpredict\Speech_Predict\Speech_Predict\obj\Debug\Speech_predict.csproj.CopyComplete
+D:\cly\abpredict\Speech_Predict\Speech_Predict\obj\Debug\Speech_Demo.exe
+D:\cly\abpredict\Speech_Predict\Speech_Predict\obj\Debug\Speech_Demo.pdb
