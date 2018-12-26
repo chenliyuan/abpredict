@@ -14,7 +14,7 @@
 	
 二、操作步骤
 
-1、启动django服务，在manage目录执行python manage.py runserver 8000
+1、启动django服务，在manage目录执行python manage.py runserver 0.0.0.0:8000
 
 2、打开vs启动程序,运行生成form窗口,进行调试训练数据和预测操作。
 
