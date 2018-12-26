@@ -8,6 +8,7 @@
 一、开发环境：
     pyablone--django后台服务  PYTHON-推荐配pycharm
 	Speech_Predict             、c#-vs
+	
 二、操作步骤
 
 1、启动django服务，在manage目录执行python manage.py runserver 8000
