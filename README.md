@@ -6,12 +6,16 @@
 	 ，欢迎大家进行优化和改进。
 	 
 一、开发环境：
-    pyablone--django后台服务  PYTHON-推荐配pycharm
-	Speech_Predict             、c#-vs
+
+   pyablone--django后台服务             推荐：pycharm
+	
+	
+   Speech_Predict前端窗口程序            推荐：vs
 	
 二、操作步骤
 
 1、启动django服务，在manage目录执行python manage.py runserver 8000
+
 2、打开vs启动程序,运行生成form窗口,进行调试训练数据和预测操作。
 
 
