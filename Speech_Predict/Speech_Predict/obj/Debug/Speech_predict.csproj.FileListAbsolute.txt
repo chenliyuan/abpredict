@@ -1,0 +1,17 @@
+D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\Speech_Demo.exe.config
+D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\Speech_Demo.exe
+D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\Speech_Demo.pdb
+D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\AipSdk.dll
+D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\IronPython.dll
+D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\Microsoft.Scripting.dll
+D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\Newtonsoft.Json.dll
+D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\Microsoft.Dynamic.dll
+D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\AipSdk.pdb
+D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_predict.csprojAssemblyReference.cache
+D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.FormMain.resources
+D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.Properties.Resources.resources
+D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_predict.csproj.GenerateResource.cache
+D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_predict.csproj.CoreCompileInputs.cache
+D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_predict.csproj.CopyComplete
+D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.exe
+D:\cly\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.pdb

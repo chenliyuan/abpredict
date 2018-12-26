@@ -1,0 +1,55 @@
+E:\wangshuoshi\Work\Top-elec\dept_tech\classes\人工智能_一级工程实践\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\Speech_Demo.exe
+E:\wangshuoshi\Work\Top-elec\dept_tech\classes\人工智能_一级工程实践\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\Speech_Demo.pdb
+E:\wangshuoshi\Work\Top-elec\dept_tech\classes\人工智能_一级工程实践\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.csprojResolveAssemblyReference.cache
+E:\wangshuoshi\Work\Top-elec\dept_tech\classes\人工智能_一级工程实践\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.FormMain.resources
+E:\wangshuoshi\Work\Top-elec\dept_tech\classes\人工智能_一级工程实践\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.Properties.Resources.resources
+E:\wangshuoshi\Work\Top-elec\dept_tech\classes\人工智能_一级工程实践\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.csproj.GenerateResource.Cache
+E:\wangshuoshi\Work\Top-elec\dept_tech\classes\人工智能_一级工程实践\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.exe
+E:\wangshuoshi\Work\Top-elec\dept_tech\classes\人工智能_一级工程实践\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.pdb
+E:\wangshuoshi\Work\Top-elec\dept_tech\classes\人工智能_一级工程实践\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\AipSdk.dll
+E:\wangshuoshi\Work\Top-elec\dept_tech\classes\人工智能_一级工程实践\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\Newtonsoft.Json.dll
+E:\wangshuoshi\Work\Top-elec\dept_tech\classes\人工智能_一级工程实践\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\AipSdk.xml
+E:\wangshuoshi\Work\Top-elec\dept_tech\classes\人工智能_一级工程实践\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\Newtonsoft.Json.xml
+E:\wangshuoshi\Work\Top-elec\dept_tech-\classes\人工智能_一级工程实践\2018年秋季学期\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\Speech_Demo.exe.config
+E:\wangshuoshi\Work\Top-elec\dept_tech-\classes\人工智能_一级工程实践\2018年秋季学期\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\Speech_Demo.exe
+E:\wangshuoshi\Work\Top-elec\dept_tech-\classes\人工智能_一级工程实践\2018年秋季学期\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\Speech_Demo.pdb
+E:\wangshuoshi\Work\Top-elec\dept_tech-\classes\人工智能_一级工程实践\2018年秋季学期\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\AipSdk.dll
+E:\wangshuoshi\Work\Top-elec\dept_tech-\classes\人工智能_一级工程实践\2018年秋季学期\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\Newtonsoft.Json.dll
+E:\wangshuoshi\Work\Top-elec\dept_tech-\classes\人工智能_一级工程实践\2018年秋季学期\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\AipSdk.pdb
+E:\wangshuoshi\Work\Top-elec\dept_tech-\classes\人工智能_一级工程实践\2018年秋季学期\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.FormMain.resources
+E:\wangshuoshi\Work\Top-elec\dept_tech-\classes\人工智能_一级工程实践\2018年秋季学期\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.Properties.Resources.resources
+E:\wangshuoshi\Work\Top-elec\dept_tech-\classes\人工智能_一级工程实践\2018年秋季学期\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.csproj.GenerateResource.Cache
+E:\wangshuoshi\Work\Top-elec\dept_tech-\classes\人工智能_一级工程实践\2018年秋季学期\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.exe
+E:\wangshuoshi\Work\Top-elec\dept_tech-\classes\人工智能_一级工程实践\2018年秋季学期\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.pdb
+E:\wangshuoshi\Work\Top-elec\dept_tech-\classes\人工智能_一级工程实践\2018年秋季学期\讲义及工程\第1课_百度AI平台概览_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.csprojResolveAssemblyReference.cache
+D:\北航_公司电脑\2018-2019第一学期《一级工程实践》课件\第1课_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\Speech_Demo.exe.config
+D:\北航_公司电脑\2018-2019第一学期《一级工程实践》课件\第1课_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\Speech_Demo.exe
+D:\北航_公司电脑\2018-2019第一学期《一级工程实践》课件\第1课_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\Speech_Demo.pdb
+D:\北航_公司电脑\2018-2019第一学期《一级工程实践》课件\第1课_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\AipSdk.dll
+D:\北航_公司电脑\2018-2019第一学期《一级工程实践》课件\第1课_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\Newtonsoft.Json.dll
+D:\北航_公司电脑\2018-2019第一学期《一级工程实践》课件\第1课_语音处理实践\工程\Speech_Demo\Speech_Demo\bin\Debug\AipSdk.pdb
+D:\北航_公司电脑\2018-2019第一学期《一级工程实践》课件\第1课_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.csprojAssemblyReference.cache
+D:\北航_公司电脑\2018-2019第一学期《一级工程实践》课件\第1课_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.FormMain.resources
+D:\北航_公司电脑\2018-2019第一学期《一级工程实践》课件\第1课_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.Properties.Resources.resources
+D:\北航_公司电脑\2018-2019第一学期《一级工程实践》课件\第1课_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.csproj.GenerateResource.cache
+D:\北航_公司电脑\2018-2019第一学期《一级工程实践》课件\第1课_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.csproj.CoreCompileInputs.cache
+D:\北航_公司电脑\2018-2019第一学期《一级工程实践》课件\第1课_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.csproj.CopyComplete
+D:\北航_公司电脑\2018-2019第一学期《一级工程实践》课件\第1课_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.exe
+D:\北航_公司电脑\2018-2019第一学期《一级工程实践》课件\第1课_语音处理实践\工程\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.pdb
+D:\陈立元\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.csprojAssemblyReference.cache
+D:\陈立元\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.FormMain.resources
+D:\陈立元\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.Properties.Resources.resources
+D:\陈立元\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.csproj.GenerateResource.cache
+D:\陈立元\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.csproj.CoreCompileInputs.cache
+D:\陈立元\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.exe
+D:\陈立元\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.pdb
+D:\陈立元\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\Speech_Demo.exe.config
+D:\陈立元\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\Speech_Demo.exe
+D:\陈立元\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\Speech_Demo.pdb
+D:\陈立元\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\AipSdk.dll
+D:\陈立元\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\IronPython.dll
+D:\陈立元\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\Microsoft.Scripting.dll
+D:\陈立元\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\Newtonsoft.Json.dll
+D:\陈立元\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\Microsoft.Dynamic.dll
+D:\陈立元\一级工程实践 第一课\Speech_Demo\Speech_Demo\bin\Debug\AipSdk.pdb
+D:\陈立元\一级工程实践 第一课\Speech_Demo\Speech_Demo\obj\Debug\Speech_Demo.csproj.CopyComplete
