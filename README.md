@@ -4,6 +4,7 @@
 
 训练：使用作业中的梯度下降方法，没来的及更换使用paddle框架，数据预测上由于只使用线性函数，可能误差相对较大。
 	 ，欢迎大家进行优化和改进。
+	 
 一、开发环境：
     pyablone--django后台服务  PYTHON-推荐配pycharm
 	Speech_Predict             、c#-vs
