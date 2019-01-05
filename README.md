@@ -16,7 +16,7 @@
 
 1、启动django服务，在manage目录执行python manage.py runserver 0.0.0.0:8000
 
-2、打开vs启动程序,运行生成form窗口,进行调试训练数据和预测操作。
+2、打开vs启动程序,运行生成form窗口,打开本地预测数据图片进行识别和预测。
 
 
 
