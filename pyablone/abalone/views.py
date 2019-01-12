@@ -84,7 +84,8 @@ def gradientDescent(theta, x, y):  # 求解在当前theta下的loss和梯度
     dtheta = np.dot(x.T, error) * 2 / num
     return loss, dtheta
 
-def train(X, Y, learning_rate=1e-3, num_iters=100, batch_size=3):  # 训练函数，准备每次迭代数据，计算梯度并更新，记录损失变化
+def train(X, Y, learning_rate=1e-3, num_iters=100, batch_size=3):  
+# 训练函数，准备每次迭代数据，计算梯度并更新，记录损失变化
     num_train = X.shape[0]
     num_col = X.shape[1]
     theta = np.ones((num_col, 1))
@@ -103,8 +104,6 @@ def train(X, Y, learning_rate=1e-3, num_iters=100, batch_size=3):  # 训练函�
         loss_history.append(loss)
         theta = theta - grad * learning_rate
     return loss_history, theta
-def hello(request):
-    return  HttpResponse("Hello world")
 def getTheta(request):
     dataPath = r"abalone/files/baoyuData.csv"
     dataSet = pd.read_csv(dataPath, header=None)
@@ -117,9 +116,10 @@ def getTheta(request):
     else:
         return HttpResponse("已获取训练参数，请查收~")
 def predict(request):
-    #input=str(request.POST["traindata"])
-    #print("input:",input)
-    input = "M,0.455,0.365,0.095,0.514,0.2245,0.101,0.15,15;M,0.35,0.265,0.09,0.2255,0.0995,0.0485,0.07,7"
+    input=str(request.POST["traindata"])
+    print("input:",input)
+    #input = "M,0.455,0.365,0.095,0.514,0.2245,0.101,0.15,15;M,0.35,0.265,0.09,0.2255,0.0995,0.0485,0.07,7"
+              #M,0.455,0.365,0.095,0.514,0.2450.101,0.15,15;M,0.35,0.265,0.09,0.2255,0.0995,0.0485,0.07,7
     #input="M,0.455,0.365,0.095,0.514,0.245,0.101,0.15,15;M,0.35,0.265,0.09,0.2255,0.0995,0.0485,0.07,7;F,0.53,0.42,0.135,0.6770.2565,0.1415.0.21,9"
     mlist = [item.split(',') for item in input.split(";")]
     testdataSet = pd.DataFrame(np.mat(mlist))
@@ -130,5 +130,5 @@ def predict(request):
     # for item in age.tolist():
     age = [str(float('%.1f' %i)) for i in age.tolist()]
     for index,item in enumerate(age):
-        ret += '第'+str(index+1)+'项预测值是' + item + ' \n\r'
+        ret += '第'+str(index+1)+'个鲍鱼年龄预测是' + item + ' \n\r'
     return HttpResponse(ret)

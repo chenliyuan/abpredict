@@ -115,7 +115,7 @@ namespace Speech_Demo
             //string params1 = System.Web.HttpUtility.UrlEncode(input);
             byte[] byteArray = Encoding.UTF8.GetBytes(buffer.ToString());
 
-            string strURL = "http://127.0.0.1:8002/predict/";
+            string strURL = "http://127.0.0.1:8000/predict/";
             webReq = (System.Net.HttpWebRequest)HttpWebRequest.Create(strURL);
             webReq.Method = "POST";
             webReq.ContentType = "application/x-www-form-urlencoded";

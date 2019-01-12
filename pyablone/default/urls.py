@@ -18,7 +18,7 @@ from django.urls import path
 from abalone import  views
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('hello/',views.hello),
+    ##path('hello/',views.hello),
     path('getTheta/',views.getTheta),
     path('predict/',views.predict)
 ]
